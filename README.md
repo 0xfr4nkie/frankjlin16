@@ -54,7 +54,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
   
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=0xfr4nkie&theme=material-palenight&hide_border=true&short_numbers=true)](https://github.com/0xfr4nkie?tab=repositories)
 
-[![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/0xfr4nkie?tab=repositories)
+[![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&langs_count=8&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/0xfr4nkie?tab=repositories)
 
 </div>
 
