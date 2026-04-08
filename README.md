@@ -4,7 +4,7 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=frankjlin16&color=FFB703) [![LinkedIn](https://img.shields.io/badge/Follow_LinkedIn--white?logo=linkedin&style=social)](https://www.linkedin.com/in/frankjlin/)
+![](https://komarev.com/ghpvc/?username=x0fr4nkie&color=FFB703) [![LinkedIn](https://img.shields.io/badge/Follow_LinkedIn--white?logo=linkedin&style=social)](https://www.linkedin.com/in/frankjlin/)
 
 ## About
 
@@ -40,34 +40,17 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <div align="center">
   
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="40"/>
-<img src='https://github.com/frankjlin16/frankjlin16/blob/main/nextjs-svgrepo-com.svg' height="40">
+<img src='https://github.com/x0fr4nkie/frankjlin16/blob/main/nextjs-svgrepo-com.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height="40">
 <img src='https://www.svgrepo.com/show/452192/docker.svg' height="40">
 <img src='https://www.svgrepo.com/show/373458/aws.svg' height="40">
-<img src='https://github.com/frankjlin16/frankjlin16/blob/main/vercel-svgrepo-com.svg' height="40">
+<img src='https://github.com/x0fr4nkie/frankjlin16/blob/main/vercel-svgrepo-com.svg' height="40">
 <img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
 <img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=frankjlin16&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=x0fr4nkie&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8fbcbb,100:a3be8c&section=footer&reversal=false&textBg=false&fontSize=36&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=34&descAlign=50&descSize=24&descAlignY=54)
 
 </div>
-
-<!-- Got the cool color idea from: https://www.eggradients.com/category/blue-gradient -->
-
-<!--
-**frankjlin16/frankjlin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  🔭 I’m currently working on ...
--  🌱 I’m currently learning ...
--  👯 I’m looking to collaborate on ...
--  🤔 I’m looking for help with ...
--  💬 Ask me about ...
--  📫 How to reach me: ...
--  😄 Pronouns: ...
--  ⚡ Fun fact: ...
--->
