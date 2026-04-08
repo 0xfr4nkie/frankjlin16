@@ -51,9 +51,9 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xfr4nkie&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)]()
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=0xfr4nkie&theme=material-palenight&hide_border=true&short_numbers=true)]()
 
-[![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)]()
+[![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)]()
 
 </div>
 
