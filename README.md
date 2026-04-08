@@ -49,7 +49,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
 <img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=x0fr4nkie&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xfr4nkie&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8fbcbb,100:a3be8c&section=footer&reversal=false&textBg=false&fontSize=36&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=34&descAlign=50&descSize=24&descAlignY=54)
 
