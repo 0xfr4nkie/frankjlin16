@@ -15,8 +15,6 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 -  🎸 I love playing the guitar in my free time.
 
 <div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfr4nkie&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703&count_private=true)
 
 </div>
   
@@ -30,8 +28,6 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="40">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&layout=compact&title_color=FB8500&text_color=FFB703&bg_color=80,023047,219EBC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -48,9 +44,19 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <img src='https://github.com/0xfr4nkie/0xfr4nkie/blob/main/vercel-svgrepo-com.svg' height="40">
 <img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
 <img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
+
+</div>
+
+## Stats
+
+<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xfr4nkie&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8fbcbb,100:a3be8c&section=footer&reversal=false&textBg=false&fontSize=36&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=34&descAlign=50&descSize=24&descAlignY=54)
 
 </div>
