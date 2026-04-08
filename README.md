@@ -1,10 +1,10 @@
 <div align="center">
   
-[![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8fbcbb,100:a3be8c&text=Hi,&section=header&reversal=false&textBg=false&fontSize=36&desc=Welcome%20to%20my%20GitHub%20corner!&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=50&descAlign=50&descSize=24)](https://github.com/frankjlin16?tab=repositories)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8fbcbb,100:a3be8c&text=Hi,&section=header&reversal=false&textBg=false&fontSize=36&desc=Welcome%20to%20my%20GitHub%20corner!&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=50&descAlign=50&descSize=24)](https://github.com/0xfr4nkie?tab=repositories)
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=x0fr4nkie&color=FFB703) [![LinkedIn](https://img.shields.io/badge/Follow_LinkedIn--white?logo=linkedin&style=social)](https://www.linkedin.com/in/frankjlin/)
+![](https://komarev.com/ghpvc/?username=0xfr4nkie&color=FFB703) [![LinkedIn](https://img.shields.io/badge/Follow_LinkedIn--white?logo=linkedin&style=social)](https://www.linkedin.com/in/frankjlin/)
 
 ## About
 
@@ -16,7 +16,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfr4nkie&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703&count_private=true)
 
 </div>
   
@@ -31,7 +31,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="40">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjlin16&layout=compact&title_color=FB8500&text_color=FFB703&bg_color=80,023047,219EBC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfr4nkie&layout=compact&title_color=FB8500&text_color=FFB703&bg_color=80,023047,219EBC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -40,12 +40,12 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <div align="center">
   
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="40"/>
-<img src='https://github.com/x0fr4nkie/frankjlin16/blob/main/nextjs-svgrepo-com.svg' height="40">
+<img src='https://github.com/0xfr4nkie/0xfr4nkie/blob/main/nextjs-svgrepo-com.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height="40">
 <img src='https://www.svgrepo.com/show/452192/docker.svg' height="40">
 <img src='https://www.svgrepo.com/show/373458/aws.svg' height="40">
-<img src='https://github.com/x0fr4nkie/frankjlin16/blob/main/vercel-svgrepo-com.svg' height="40">
+<img src='https://github.com/0xfr4nkie/0xfr4nkie/blob/main/vercel-svgrepo-com.svg' height="40">
 <img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
 <img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
   
