@@ -36,6 +36,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
 <div align="center">
   
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="40"/>
+<img src="https://www.svgrepo.com/show/374167/vite.svg" height="40"/>
 <img src='https://github.com/0xfr4nkie/0xfr4nkie/blob/main/nextjs-svgrepo-com.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height="40">
